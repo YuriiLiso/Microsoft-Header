@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.d06f7898.chunk.css",
+    "main.css": "./static/css/main.253ca20e.chunk.css",
     "main.js": "./static/js/main.1f5f4a42.chunk.js",
     "main.js.map": "./static/js/main.1f5f4a42.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.63136dd4.js",
@@ -8,16 +8,16 @@
     "static/js/2.18157275.chunk.js": "./static/js/2.18157275.chunk.js",
     "static/js/2.18157275.chunk.js.map": "./static/js/2.18157275.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.1efc4b2c19352de9007b189aca431e53.js": "./precache-manifest.1efc4b2c19352de9007b189aca431e53.js",
+    "precache-manifest.8789de6d62f1cea19af14040e000be6b.js": "./precache-manifest.8789de6d62f1cea19af14040e000be6b.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.d06f7898.chunk.css.map": "./static/css/main.d06f7898.chunk.css.map",
+    "static/css/main.253ca20e.chunk.css.map": "./static/css/main.253ca20e.chunk.css.map",
     "static/js/2.18157275.chunk.js.LICENSE.txt": "./static/js/2.18157275.chunk.js.LICENSE.txt",
     "static/media/general.scss": "./static/media/telega.27e75238.png"
   },
   "entrypoints": [
     "static/js/runtime-main.63136dd4.js",
     "static/js/2.18157275.chunk.js",
-    "static/css/main.d06f7898.chunk.css",
+    "static/css/main.253ca20e.chunk.css",
     "static/js/main.1f5f4a42.chunk.js"
   ]
 }
